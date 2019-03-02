@@ -530,13 +530,8 @@
     }
    ],
    "source": [
-<<<<<<< Updated upstream
     "\n",
     "games_atbats_merge_pd.columns\n"
-=======
-    "#Average Homeruns at home vs Attendance\n",
-    "games_atbats_merge_pd.columns"
->>>>>>> Stashed changes
    ]
   },
   {
